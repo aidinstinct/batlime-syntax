@@ -1,13 +1,13 @@
 {
   "name": "batlime-syntax",
-  "theme": "syntax",
+  "theme": "batlime-syntax",
   "version": "0.1.0",
   "description": "A darker, better version of sublime text. Requires MagicPython.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/batlime-syntax",
+  "repository": "https://github.com/aidinstinct/batlime-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
