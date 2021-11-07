@@ -1,6 +1,6 @@
 {
   "name": "batlime-syntax",
-  "theme": "batlime-syntax",
+  "theme": "syntax",
   "version": "0.2.0",
   "description": "A darker, better version of sublime text. Requires MagicPython.",
   "keywords": [
